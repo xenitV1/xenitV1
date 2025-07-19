@@ -57,13 +57,8 @@ My ultimate goal is simple yet ambitious: **Creating value with technology witho
 
 ### Specialized AI Tools
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![Marius](https://img.shields.io/badge/Marius-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Manus](https://img.shields.io/badge/Marius-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Rork](https://img.shields.io/badge/Rork-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white)
-
-### Project Management & Automation
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
 </div>
 
