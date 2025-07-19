@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a creative innovator who believes in the power of AI to transform ideas into reality. My approach is unique because I don't rely on traditional programming or coding knowledge. Instead, I harness the incredible potential of AI tools to bring my visions to life completely.
+I'm a creative innovator who believes in the power of AI to transform ideas into reality. My approach is distinctive because rather than focusing on traditional programming, I've chosen to specialize in leveraging AI tools as my primary development environment. This allows me to harness the incredible potential of artificial intelligence to bring my visions to life in ways that feel natural and intuitive.
 
 My philosophy centers around one core belief: **I bring my ideas to life using AI tools completely**. This means I can create sophisticated web applications, mobile projects, automation tools, and creative solutions without getting bogged down in the technical complexities of traditional coding.
 
@@ -59,6 +59,7 @@ My ultimate goal is simple yet ambitious: **Creating value with technology witho
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Manus](https://img.shields.io/badge/Marius-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Rork](https://img.shields.io/badge/Rork-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white)
+
 
 </div>
 
