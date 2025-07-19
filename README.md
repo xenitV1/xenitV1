@@ -51,29 +51,6 @@ const aboutMe = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xenitV1&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 💻 My Technology Stack
-
-<div align="center">
-
-### AI Tools & Platforms
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge&logo=perplexity&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-
-### No-Code/Low-Code Platforms
-![Bolt.new](https://img.shields.io/badge/Bolt.new-FF6B35?style=for-the-badge&logo=bolt&logoColor=white)
-![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-
-### Project Management & Automation
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
