@@ -57,7 +57,7 @@ My ultimate goal is simple yet ambitious: **Creating value with technology witho
 
 ### Specialized AI Tools
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![Manus](https://img.shields.io/badge/Marius-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Rork](https://img.shields.io/badge/Rork-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white)
 
 
